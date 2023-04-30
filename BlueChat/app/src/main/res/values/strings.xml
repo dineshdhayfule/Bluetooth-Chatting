@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlueChat</string>
+    <string name="str_paired_devices">Paired Devices</string>
+    <string name="str_available_devices">Available Devices</string>
+</resources>
