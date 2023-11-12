@@ -1,6 +1,7 @@
 # Bluetooth Chatting is android Bluetooth based chatting application
  
-![IMG-20231112-WA0006](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/bf3bbc28-6f26-41c6-accc-bdd431e3bda8)
+
+<img src="[https://your-image-url.type](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/bf3bbc28-6f26-41c6-accc-bdd431e3bda8)" width="100" height="100">
 ![IMG-20231112-WA0007](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/345942a1-b6c7-4c23-a1f2-8f7d2ebe7d8c)
 ![IMG-20231112-WA0004](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/8104a0d1-d005-4d6f-a8bc-a8e1e9281a30)
 ![IMG-20231112-WA0005](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/5a001298-e9df-4388-9a53-54cf97618653)
