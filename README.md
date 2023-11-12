@@ -1,9 +1,9 @@
 # Bluetooth Chatting is android Bluetooth based chatting application
  
-![IMG-20231112-WA00061](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/59c77c05-0950-44a1-8b91-f8db2ec87cac) ![IMG-20231112-WA0007](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/345942a1-b6c7-4c23-a1f2-8f7d2ebe7d8c)
-![IMG-20231112-WA0004](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/8104a0d1-d005-4d6f-a8bc-a8e1e9281a30)
-![IMG-20231112-WA0005](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/5a001298-e9df-4388-9a53-54cf97618653)
-![IMG-20231112-WA0009](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/ef90614f-0dc1-4239-8535-74db43bfbc9b)
-![IMG-20231112-WA0008](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/5dfa8df3-f930-45d6-8f2a-3d4781273289)
-![IMG-20231112-WA0010](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/8f3a1ccc-0d29-4223-b1c9-6d0b630bdc49)
- 
+![IMG-20231112-WA0006 (Phone)](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/bdb93eee-aef4-4201-9ff5-8a84161b4e90)
+![IMG-20231112-WA0007 (Phone)](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/8b3a480b-10dd-434c-b8a1-061c1e76f1fe)
+![IMG-20231112-WA0004 (Phone)](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/e79413b7-4587-4795-95aa-f22f92be1e01)
+![IMG-20231112-WA0005 (Phone)](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/fa77d182-9ca5-436f-9a81-362b3cad5712)
+![IMG-20231112-WA0008 (Phone)](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/966e7556-8328-4fe4-bcd1-f97150220eb1)
+![IMG-20231112-WA0009 (Phone)](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/b3724a46-522a-4509-b77f-a6509f70157f)
+![IMG-20231112-WA0010 (Phone)](https://github.com/dineshdhayfule/Bluetooth-Chatting/assets/109637254/2438205a-584a-48ac-919e-b79b5539f39b)
